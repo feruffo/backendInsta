@@ -1,1 +1,1 @@
-Backend feito para estudar node.js. Baseado no modelo do insta.
+Projeto feito em Node.js para estudo, baseado na rede social Instagram.
